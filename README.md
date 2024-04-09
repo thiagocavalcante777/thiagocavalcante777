@@ -9,7 +9,7 @@
 
 :books: Currently creating code for some projects.
 
-:outbox_tray: 2024 Goals: create less bug.
+:outbox_tray: 2024 Goals: criar menos bugs.
  
 ## About me
 

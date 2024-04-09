@@ -3,13 +3,13 @@
 ## I'm Thiago Cavalcante!
 
 
-:computer: I'm Prommer!
+:computer: I'm Programmer!
 
 :house_with_garden: I’m from Brazil.
 
 :books: Currently creating code for some projects.
 
-:outbox_tray: 2024 Goals: create increasingly better codes.
+:outbox_tray: 2024 Goals: create less bug.
  
 ## About me
 
